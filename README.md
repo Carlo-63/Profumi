@@ -114,7 +114,7 @@ Nel tuo script di inventario (esempio: `ox_inventory`), devi definire gli oggett
 
 - Puoi personalizzare il raggio delle notifiche nel config:
   ```lua
-  Config.NotifiationDistance = 3
+  Config.NotificationDistance = 3
   ```
 
 - Puoi personalizzare la durata degli effetti dei profumi nel config:
